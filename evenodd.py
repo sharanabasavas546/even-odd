@@ -15,3 +15,4 @@ def count_even_odd():
     print("Odd numbers:", odd_count)
 
 count_even_odd()
+ 
